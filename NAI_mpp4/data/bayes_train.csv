@@ -1,0 +1,12 @@
+Klasa;Cena;Osiągi;Niezawodność;Akceptacja
+miejski;niska;słabe;mała;1
+duży;niska;słabe;mała;1
+kompakt;niska;dobre;przeciętna;1
+mały;niska;przeciętne;mała;1
+mały;umiarkowana;przeciętne;przeciętna;1
+kompakt;umiarkowana;przeciętne;przeciętna;1
+miejski;umiarkowana;przeciętne;przeciętna;0
+mały;umiarkowana;dobre;duża;0
+kompakt;wysoka;dobre;duża;0
+duży;wysoka;przeciętne;przeciętna;0
+duży;wysoka;przeciętne;duża;0
